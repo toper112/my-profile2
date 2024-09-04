@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "12 Dec 2000" },
+    {
+      "website": "<a target='blank' href='#'>None</a>"
+    },
+    { "phone": "+63 938-322-9137" },
+    { "address": "Ilijan Sur, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 23 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>christopersab@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Ilijan Sur, Tubigon, Bohol, Philippines",
+    "+63 938-322-9137",
+    "<a href='mailto:christopersab@gmail.com'>christopersab@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2021 - 2025",
+      "school": "Mater Dei College",
+      "address": "Tubigon, Bohol, Philippines"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2012 - 2021",
+      "school": "Tubigon West National High School",
+      "address": "Ilijan Norte, Tubigon, Bohol, Philippines"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2006 - 2012",
+      "school": "Avelino Chagas Elementary School",
+      "address": "Ilijan Norte, Tubigon, Bohol, Philippines"
+    }
+  ]
+}
